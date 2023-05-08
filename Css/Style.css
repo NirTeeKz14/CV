@@ -1,0 +1,123 @@
+body{
+    background-color: rgb(252, 252, 252); 
+}
+
+img{
+    text-align: center;
+    justify-content: center;
+    box-shadow: 1px 1px 18px rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-style: solid;
+    margin: 10px 0 0 0;
+}
+
+#haut{
+    text-align: center;
+    background-color: rgb(126, 30, 30);
+    height: 220px;
+}
+
+#bandeau{
+    justify-content: center;
+    display: flex;
+    background-color: rgb(46, 46, 46);
+    padding: 20px;
+}
+
+#bandeau a{
+    color: aliceblue;
+    margin: 0 250px 0 235px;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    color: aliceblue;
+    margin: 1%;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    color: aliceblue;
+}
+
+h4{
+    font-family: 'Lato', sans-serif;
+}
+
+h5{
+    font-family: 'Raleway', sans-serif;
+    color: aliceblue;
+}
+
+#contenair{
+    margin: 0 auto;
+    width: 1160px;
+}
+
+#Propos{
+    width: 250px;
+    padding: 5px 0 5px 20px;
+    background-color: antiquewhite;
+}
+
+#Langue{
+    width: 250px;
+    padding: 5px 0 5px 20px;
+    background-color: antiquewhite;
+}
+
+#pres {
+    font-family: 'Raleway', sans-serif;
+    color: aliceblue;
+    padding: 5px 0 5px 20px;
+    text-indent: 30px;
+}
+
+#languages li {
+    margin: 10px 0 -18px 0;
+    color: white;
+}
+
+#decale {
+    padding-top: 5px;
+}
+
+
+#Interet{
+    width: 250px;
+    padding: 5px 0 5px 20px;
+    background-color: antiquewhite; 
+}
+
+#white_c {
+    color: white;
+}
+
+#Experiences{
+    width: 250px;
+    padding: 5px 0 5px 10px;
+    background-color: antiquewhite;
+
+}
+
+#Diplôme{
+    width: 250px;
+    padding: 5px 0 5px 10px;
+    background-color: antiquewhite; 
+}
+
+#Competences{
+    width: 250px;
+    padding: 5px 0 5px 10px;
+    background-color: antiquewhite; 
+}
+
+#Global{
+    background-color: rgb(126, 30, 30);
+    width: 255px;
+    padding: 1px 45px 1px 0px;
+    height: 800px;
+}
